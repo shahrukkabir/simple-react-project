@@ -19,7 +19,7 @@ function App() {
       <Header></Header>
       <div className='md:flex justify-center gap-6  max-w-7xl p-6 mx-auto'>
         <Blogs handleAddToBookmark={handleAddToBookmark}></Blogs>
-        <Bookmarks></Bookmarks>
+        <Bookmarks bookmarks={bookmarks}></Bookmarks>
       </div>
     </>
   )
