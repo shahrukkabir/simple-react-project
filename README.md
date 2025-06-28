@@ -1,8 +1,17 @@
-# React + Vite
+# ☕ Knowledge Cafe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Knowledge Cafe** is a simple blog project built using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 📚 What You Will Learn
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- How to create and manage JSON data
+- Load and display data dynamically on the UI
+- Add blogs to a bookmark list and mark them as read
+- Calculate and show total reading time in the sidebar
+
+## ⚛️ Technologies Used
+
+- Basic React (components, props)
+- State Management with `useState`
+- Data fetching with `useEffect`
+- Tailwind CSS for responsive styling
